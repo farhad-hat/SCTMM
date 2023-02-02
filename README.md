@@ -8,7 +8,7 @@ This repository hosts the code for SCTMM, a scalable approach for continuous tim
 
 Existing methods for fitting continuous time Markov models (SCTMM) in the presence of covariates suffer from scalability issues due to high computational cost of matrix exponentials calculated for each observation. In this paper we propose an optimization technique for SCTMM which uses a stochastic gradient descent algorithm combined with differentiation of the matrix exponential using a Pad\'e approximation which we show then makes fitting large scale data feasible. We present two novel methods for computing standard errors, one using Pad\'e expansion, and the other using power series expansion of the matrix exponential. Through simulations we find improved performance relative to existing SCTMM methods, and we demonstrate the method on the large-scale multiple sclerosis NO.MS dataset.
 
-https://gitlab.com/farhatami88/sctmm/-/blob/main/graphical_model.png
+![My Image](graphical_model.png)
 
 There are two directories in this repository:
 
