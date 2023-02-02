@@ -12,7 +12,7 @@ Existing methods for fitting continuous time Markov models (SCTMM) in the presen
   src="graphical_model.png"
   alt="Alt text"
   title=""
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  style="display: inline-block; margin: 30 auto; max-width: 100px">
 
 ![My Image](graphical_model.png)
 
